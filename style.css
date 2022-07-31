@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav1>img{
+    height: 625px;
+    position: fixed;
+}
+ul{
+    display: flex;
+    flex-direction: row; 
+    margin-top: 30px;
+    margin-left: 850px;
+}
+li{
+   margin: 0px 10px;
+    list-style-type: none;
+}
+.nav2{
+    color: black;
+}
+a{
+    text-decoration: none;
+    margin-right: 40px;
+    color: #758283;
+}
+.nav3{
+    border: 1px solid gray;
+    height: 1px;
+    width: 300px;
+    position: absolute;
+    top: 45px;
+    left: 500px;
+}
+.nav4{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+}
+.nav4>img{
+    height: 40px;
+    width: 80px;
+   
+}
+.section1{
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.section1>h1{
+   font-size: 60px;
+  
+}
+#section2{
+    font-size: 60px;
+    margin-left: 90px;
+    font-weight: 800;
+}
+#section3{
+    position: absolute;
+    top: 190px;
+  left: 850px;
+    font-size: 23px;
+    color: #758283;
+}
+#section4{
+    font-size: 23px;
+    position: absolute;
+    top: 210px;
+  left: 850px;
+  color: #758283;
+}
+section>button{
+    margin-top: 40px;
+    margin-left:1000px;
+    padding: 20px 40px;
+    background-color: black;
+    color: white;
+}
+.section5{
+    position: absolute;
+    top: 70px;
+    left: 1200px;
+}
+.section6{
+    margin: 20px 0px;
+}
+.section7{
+   left: 500px;
+    position: absolute;
+    top: 380px;
+}
+.section8{
+    border: 1px solid black;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 30px 0px;
+}
+.section9{
+    top: 410px;
+    position: absolute;
+    left: 504px;
+}
+.section10{
+    border: 1px solid gray;
+    height: 40px;
+    width: 0px;
+}
+.section11{
+    position: absolute;
+    top: 390px;
+    left: 530px;
+}
+.section12{
+    margin: 20px 0px;
+}
+.section14{
+    color: black;
+    position: absolute;
+    top: 320px;
+    left: 910px;
+    font-size: 50px;
+}
+.section15{
+    color: black;
+    position: absolute;
+    top: 400px;
+    left: 900px;
+}
+.section16{
+    position: absolute;
+    top: 450px;
+    left: 900px;
+}
+.section16>img{
+height: 200px;
+width: 300px;
+}
