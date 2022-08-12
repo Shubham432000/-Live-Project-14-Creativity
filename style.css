@@ -121,6 +121,12 @@ section>button{
 .section12{
     margin: 20px 0px;
 }
+.section12>.head{
+    color: #0D0D0D;
+}
+.section12>p{
+    color: #758283;
+}
 .section14{
     color: black;
     position: absolute;
